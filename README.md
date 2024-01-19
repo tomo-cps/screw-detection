@@ -1,6 +1,8 @@
 # screw-detection
 
 ```
+cp -r data/* yolov5/data/
+cd yolov5
 python train.py --data data/data.yaml --weights yolov5s.pt --epochs 200
 ```
 

@@ -1,0 +1,5 @@
+train: data/train/images
+val: data/valid/images
+
+nc: 5
+names: ['screw0', 'screw1', 'screw2', 'screw3', 'screw4']

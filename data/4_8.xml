@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>4_8.jpg</filename>
+	<path>/Users/tohkawa/Documents/2master/2nezi/images/4_8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>screw4</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1485</xmin>
+			<ymin>2283</ymin>
+			<xmax>1726</xmax>
+			<ymax>2571</ymax>
+		</bndbox>
+	</object>
+</annotation>

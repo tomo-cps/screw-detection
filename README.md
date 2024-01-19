@@ -1,5 +1,5 @@
 # screw-detection
-This repository is a task to detect screws using YOLOv5. You can experiment with the screws you want to detect :fire:
+This repository is a task to detect screws using [YOLOv5](https://github.com/ultralytics/yolov5). You can experiment with the screws you want to detect :fire:
 
 ## 1. Create Dataset
 ### 1.1 Take some images for object detection

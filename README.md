@@ -19,7 +19,7 @@ git clone https://github.com/ultralytics/yolov5
 cd yolov5
 pip install -r requirements.txt 
 ```
-### 2.2 Split the created data into training(80%) and validation(20%) data, and place data for each.
+### 2.2 Split the created dataset into training(80%) and validation(20%) data, and place data for each.
 ```
 .
 ├── README.md

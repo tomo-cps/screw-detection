@@ -27,4 +27,4 @@ first_val = [i for i in range(5)]
 sec_val = [i for i in range(10)]
 for f in first_val:
     for s in sec_val:
-        convert_voc_to_yolo('data/'+str(f)+"_"+str(s)+'.xml', str(f)+"_"+str(s)+'.txt')
+        convert_voc_to_yolo('data/'+str(f)+"_"+str(s)+'.xml', str(f)+"_"+str(s)+'.txt', class_id=str(f))

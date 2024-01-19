@@ -21,3 +21,7 @@ real-time
 ```
 python detect.py --source 0 --weights yolov5m.pt
 ```
+
+sample-image
+
+<img src="yolov5/runs/detect/exp2/test_1.jpg" width="500">

@@ -11,7 +11,7 @@ pip3 install labelImg
 labelImg
 ```
 
-## 2. Training with YOLO
+## 2. Training with YOLOv5
 ### 2.1 Environment building
 
 ```

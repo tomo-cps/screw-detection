@@ -1,5 +1,10 @@
 # screw-detection
 
+env
+```
+pip install -r requirements.txt 
+```
+
 train
 ```
 cp -r data/* yolov5/data/

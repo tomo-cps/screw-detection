@@ -85,4 +85,4 @@ python detect.py --source 0 --weights yolov5m.pt
 
 - sample-image
 
-<img src="./runs/detect/exp2/test_1.jpg" width="400">
+<img src="../app/images/sample_yolov5.jpg" width="400">

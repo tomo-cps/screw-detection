@@ -68,6 +68,8 @@ names: ['screw0', 'screw1', 'screw2', 'screw3', 'screw4'] # class name
 
 ### 2.4 Start of training and validation
 ```
+cp -r data/* yolov5/data/
+cd yolov5
 python train.py --data data/data.yaml --weights yolov5s.pt --epochs 200
 ```
 

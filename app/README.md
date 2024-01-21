@@ -2,6 +2,6 @@
 
 ### Run
 ```
-pip install streamlit
+pip install -r requirements.txt
 streamlit run app.py
 ```

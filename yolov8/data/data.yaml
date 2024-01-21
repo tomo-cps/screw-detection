@@ -1,0 +1,5 @@
+train: /home/tomo/Documents/screw-detection/yolov8/data/train/images
+val: /home/tomo/Documents/screw-detection/yolov8/data/valid/images
+
+nc: 5
+names: ['screw0', 'screw1', 'screw2', 'screw3', 'screw4']

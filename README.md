@@ -4,7 +4,7 @@ This repository can perform screw detection using YOLOv5 and YOLOv8, each with i
 - In README.md, located in the yolov5 and yolov8 directories, there are 
 step by step instructions on how to train using your own data.
   - [Detection with yolov5](./yolov5/)
-  - [Detection with yolov8](./yolov5/)
+  - [Detection with yolov8](./yolov8/)
 
 - The app directory contains instructions on how to run Streamlit.
   - [App with streamlit](./app)
